@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_rl_action">
+    <sys_ui_policy_rl_action action="DELETE">
+        <list/>
+        <sys_class_name>sys_ui_policy_rl_action</sys_class_name>
+        <sys_created_by>KRAUSL@cooley.com</sys_created_by>
+        <sys_created_on>2022-10-04 15:37:26</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e821b45a1bda99104e640fa2cd4bcbb3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_policy_rl_action_e821b45a1bda99104e640fa2cd4bcbb3</sys_update_name>
+        <sys_updated_by>KRAUSL@cooley.com</sys_updated_by>
+        <sys_updated_on>2022-10-04 15:37:26</sys_updated_on>
+        <ui_policy display_value="I want to see options">a401345a1bda99104e640fa2cd4bcb3d</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_rl_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>066a3a0e6f360280f51e7b2f5d3ee46e</instance_id>
+        <instance_name>cooleydev</instance_name>
+        <name>sys_ui_policy_rl_action_e821b45a1bda99104e640fa2cd4bcbb3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_rl_action"><sys_ui_policy_rl_action action="INSERT_OR_UPDATE"><list/><sys_class_name>sys_ui_policy_rl_action</sys_class_name><sys_created_by>KRAUSL@cooley.com</sys_created_by><sys_created_on>2022-10-04 15:37:26</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>e821b45a1bda99104e640fa2cd4bcbb3</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_rl_action_e821b45a1bda99104e640fa2cd4bcbb3</sys_update_name><sys_updated_by>KRAUSL@cooley.com</sys_updated_by><sys_updated_on>2022-10-04 15:37:26</sys_updated_on><ui_policy display_value="I want to see options">a401345a1bda99104e640fa2cd4bcb3d</ui_policy><visible>ignore</visible></sys_ui_policy_rl_action></record_update>]]></payload>
+        <payload_hash>770185588</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>cce7ebf11b5a59104e640fa2cd4bcb1c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>KRAUSL@cooley.com</sys_created_by>
+        <sys_created_on>2022-10-04 15:37:26</sys_created_on>
+        <sys_id>5a51f41a1bda99104e640fa2cd4bcb69</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183a3a50ec30000001</sys_recorded_at>
+        <sys_updated_by>KRAUSL@cooley.com</sys_updated_by>
+        <sys_updated_on>2022-10-04 15:37:26</sys_updated_on>
+        <type>UI Policy Related List Action</type>
+        <update_guid>5251f41aa7da991027be5686a19d8069</update_guid>
+        <update_guid_history>5251f41aa7da991027be5686a19d8069:770185588</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>KRAUSL@cooley.com</sys_created_by>
+        <sys_created_on>2022-10-04 15:39:01</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_ui_policy_rl_action">sys_ui_policy_rl_action</sys_db_object>
+        <sys_id>7d9f53fdc9234a349ef9506b94dc5fc4</sys_id>
+        <sys_metadata>e821b45a1bda99104e640fa2cd4bcbb3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_rl_action_e821b45a1bda99104e640fa2cd4bcbb3</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_rl_action_e821b45a1bda99104e640fa2cd4bcbb3">5a51f41a1bda99104e640fa2cd4bcb69</sys_update_version>
+        <sys_updated_by>KRAUSL@cooley.com</sys_updated_by>
+        <sys_updated_on>2022-10-04 15:39:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
